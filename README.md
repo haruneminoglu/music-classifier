@@ -57,7 +57,7 @@ Bu proje, tek sesli enstrümanlarla çalınan ses kayıtlarından hangi enstrüm
 
 ---
 
-## 📂 Dosya Yapısı (Örnek)
+
 
 
 
